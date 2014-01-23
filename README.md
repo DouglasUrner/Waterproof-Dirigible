@@ -14,6 +14,10 @@ Major topics:
    * Community Tools
      - IRC
      - GitHub
+   * Teams / Programming & Development Methods
+     - Roles
+     - Agile methods
+3. Design Process 
 3. Programmer's Tools
    * Editors
    * Version Control Systems
