@@ -11,6 +11,8 @@ Major topics:
 3. CSS
 4. JavaScript
 5. Modern Website Design
+   * Bootstrap
+   * Meteor
 
 HTML
 ----
