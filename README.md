@@ -7,17 +7,27 @@ Major topics:
    * TCP/IP
    * DNS
    * HTTP & HTTPS
-2. Programmer's Tools
+   * HTML
+     - The DOM
+2. The Culture Of the Internet
+   * Open Source
+   * Community Tools
+     - IRC
+     - GitHub
+3. Programmer's Tools
    * Editors
    * Version Control Systems
    * Project Management
-2. HTML
-3. CSS
-4. JavaScript
-5. Modern Website Design
-   * Bootstrap
-     - Less
-   * Meteor
+4. HTML
+5. CSS
+6. JavaScript
+7. Modern Website Design
+   * jQuery (http://jquery.com)
+   * Bootstrap (http://getbootstrap.com)
+     - Less (http://www.lesscss.org)
+   * Node.js (http://nodejs.org)
+   * Meteor (https://www.meteor.com)
+   * CoffeeScript (http://coffeescript.org)
 
 HTML
 ----
