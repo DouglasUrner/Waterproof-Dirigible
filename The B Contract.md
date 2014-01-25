@@ -6,6 +6,7 @@ My assessment philosophy is built around these goals:
 2. To remove the stress around maintaining grades, with the expectation that this will lead most students to be in a better place to focus on learning.
 3. To provide accurate feedback on progress towards mastery, while allowing students to move forward at their own pace, without turning challenges or slow progress into "bad" grades.
 4. To be accountable for my part in the learning process – I need to be able to guide students to the challenges and processes that will facilitate their learning. If I am unable to do this for a particular student, this does not represent failure on the part of the student.
+5. To encourage and support the development of durable understandings and skills.
 
 ## Theories, Beliefs, and Values
 
@@ -48,13 +49,15 @@ The second is a letter grade which roughly translates as:
 * C: not working the method, and demonstrating a low level of mastery
 * NC: not working the method, and providing little or no evidence of mastery
 
-There is no 'D' – this is because the level of understanding and skill that goes with the traditional 'D' does not reflect any substantial mastery of the material. A 'D' is not a foundation for going on to do futher work and it does not reflect an understanding of the material that is sufficient in itself. The way I grade the only students who could get a 'D' would be those who both did not enage in the process of learning for the class and who also were unable to show even a low, but workable, understanding of the content of the class.
+There is no 'D' – this is because the level of understanding and skill that goes with a 'D' on a traditional grading scale does not reflect any substantial mastery of the material. A 'D' is not a foundation for going on to do futher work in the field nor does it does not reflect an understanding of the material that is sufficient in itself. The way I grade the only students who could get a 'D' would be those who both did not enage in the process of learning for the class and who also were unable to show even a low, but workable, understanding of the content of the class. Further, with a goal of developing students who are first and foremost excellent learners a 'D' is a very unlikely outcome. Students who work the process are unlikely to end up with such a low level of mastery. Students who break the contract and also acheive very little are a call for investigation.
 
-Some students may consistently and faithfully "work the system" and still not be able to bring their skills up to the level that would warrent a 'B'. When this happens, I belive that it represents a failure on my part to design practices that will help this particular student get to that level of proficency. By providing timely and detailed reflection on how they are (or are not) progressing the student has fulfilled her end of the bargain and she (or he) will still be awarded a 'B'. The standards report will provide a picture of where the difficulties are. As Dr. Tae tells us "nobody knows how long it takes anybody to learn anything." Through experience and observation we may think we know, but only when we're talking averages…
+Likewise there is no 'F' – it does not make sense to brand a student who was unable to participate in the system as a "failure." The problem reflects, at the very least, the inability of the student to engage in the process and the inability of the teacher to figure out alternative stategies. This is probably componded by the lack of other options in the system (or the lack of awareness of them). It may be reasonable to desribe the overall effort as a "failure" but it is not reasonable to lay the blame solely on the student. Even if the problem can be fairly placed solely on the student (and I don't think it can be) there is still the question of why a human, who is intrisicly driven to learn, was unable to learn in this environment – what happened to him, or her, and how could this have been addressed? When nothing seems to work, the fairest and most compasionate thing seems to be to award no credit ('NC') and investigate other options.
+
+Some students may consistently and faithfully "work the system" and still not be able to bring their skills up to the level that would warrent a 'B' on a traditional grading scale. When this happens, I belive that it represents a failure on my part to design practices that will help this particular student get to that level of proficency. By providing timely and detailed reflection on how they are (or are not) progressing the student has fulfilled her end of the bargain and she (or he) will still be awarded a 'B'. The standards report will provide a picture of where the difficulties are. As Dr. Tae tells us "nobody knows how long it takes anybody to learn anything." Through experience and observation we may think we know, but only when we're talking averages…
 
 ### Formative Assessment
 
-The primary mode of formative assessment is
+The primary mode of formative assessment is, ideally, questions from the student. The teacher may also ask questions and design activities to gather information about how the work is going. Since students will not all be in the same place at the same time it will often not be possible to do classwide formative assessment.
 
 ### Summative Assessment
 
