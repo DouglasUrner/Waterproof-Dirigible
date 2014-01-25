@@ -10,6 +10,7 @@ Major topics:
    * HTML
      - The DOM
 2. The Culture Of the Internet
+   * Standards
    * Open Source
    * Community Tools
      - IRC
@@ -22,16 +23,26 @@ Major topics:
    * Editors
    * Version Control Systems
    * Project Management
+   * Frameworks
+   * Pre-processors
+     - CoffeeScript (http://coffeescript.org)
+     - Less
+     - SASS/Compass
 4. HTML
 5. CSS
 6. JavaScript
-7. Modern Website Design
+7. Building Modern Websites
    * jQuery (http://jquery.com)
    * Bootstrap (http://getbootstrap.com)
-     - Less (http://www.lesscss.org)
    * Node.js (http://nodejs.org)
    * Meteor (https://www.meteor.com)
-   * CoffeeScript (http://coffeescript.org)
+   * Databases
+     - MongoDB
+     - Maria / MySQL
+     - PostgreSQL
+   * Content Managment Systems (CMS)
+     - Drupal
+     - Wordpress
 
 HTML
 ----
