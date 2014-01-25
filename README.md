@@ -18,7 +18,13 @@ Major topics:
    * Teams / Programming & Development Methods
      - Roles
      - Agile methods
-3. Design Process 
+3. Design Process
+   * Information Architecture (IA)
+   * Wireframe
+   * Visual Design
+   * Information Design
+   * Navigation Design
+   * User Interface Design
 3. Programmer's Tools
    * Editors
    * Version Control Systems
