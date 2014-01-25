@@ -21,6 +21,8 @@ My assessment philosophy is built around these goals:
 * Absent organic or psychological damage everyone can and wants to learn.
 * Lack of interest in learning (or the apparent lack of interest) is indicitive of a place where the student needs an ally and advocate.
 * The content we teach is (or should be) fundamental to developing as a functional and engaged citizen. The process of learning is even more important as it is the basis for learning the content – and a student who is an excellent learning can, and will, make up for the shortcomings of the school, curriculum, teacher, or alloted time.
+* If you don't teach something you are on very shakey ground, ethically and pedagogically, basing a grade upon the students' performance in that area. It may be important to assess things you don't teach – even things you can not teach – but assessment is different than grading.
+* Reporting is also different than grading. You can, and should, report to a student what you learn about their skills and understandings – but you do not have to grade based on that. You should not grade based on things that you are not helping your students to learn and offerring them the opportunity to get better at.
 
 ## Inspirations:
 * Montessori classrooms where students work at their own pace and manage their own time.
