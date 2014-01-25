@@ -1,6 +1,7 @@
 ## Goals
 
 My assessment philosophy is built around these goals:
+
 1. To provide meaningful real-time (or as close to real-time as practical) feedback on student growth.
 2. To remove the stress around maintaining grades, with the expectation that this will lead most students to be in a better place to focus on learning.
 3. To provide accurate feedback on progress towards mastery, while allowing students to move forward at their own pace, without turning challenges or slow progress into "bad" grades.
@@ -10,12 +11,13 @@ My assessment philosophy is built around these goals:
 
 * Learning happens when the learner is engaged in a mindful process of attempting to get better at something.
 * The role of the teacher is to help guide the student to challenges in the field that will facilitate learning and to help the student analyze failure.
-* Failure is essential to learning.
+* Failure is essential to learning. Growth comes from trying things that we don't know how to do, frequently we fail before we learn how to do the new thing. Analyzing the failure and trying again are essential to the learning process, without failure – and analysis – there would be no learning.
 * The only part of the process that I can control is myself. I have to accept my students as they come to me and help them build on what they bring to the classroom.
 * People relish learning.
 * Learning can be difficult, frustrating, humbling, but it is also intrinsicly rewarding and motivating.
 * Absent organic or psychological damage everyone can and wants to learn.
 * Lack of interest in learning (or the apparent lack of interest) is indicitive of a place where the student needs an ally and advocate.
+* The content we teach is (or should be) fundamental to developing as a functional and engaged citizen. The process of learning is even more important as it is the basis for learning the content – and a student who is an excellent learning can, and will, make up for the shortcomings of the school, curriculum, teacher, or alloted time.
 
 ## Inspirations:
 * Montessori classrooms where students work at their own pace and manage their own time.
