@@ -3,6 +3,8 @@
 My assessment philosophy is built around these goals:
 
 1. To provide meaningful real-time (or as close to real-time as practical) feedback on student growth.
+2. To be specific about what is being assessed and how the student is doing that area. Assessments that provide a single overall score rarely do this. It can be a significant problem to know what you are assessing. For example: in math the class might be working on the concept of slope and intercepts. In an effort to assess understanding the teacher might describe a real world scenario where these concepts are used and ask the students to apply their understanding to the problem. This could be a very good assessment – it asks students to evaluate a situation and apply their understanding to it in a relatively authentic fashion. In doing this the assessment, intentionally or not, tests comprehension, critical thinking skills, vocabulary, and problem solving along with the knowledge of the material the class is working on. To be a valid assessment the teacher has to recognize this and find a way to extract the desired information from the results of the assessment and then reflect that information back to the students and use it herself to inform what she will be doing next in the classroom. It is higly likely that some of what is being assessed is not being taught in that class, and that some of these things stand as "gatekeepers" to the skill that the teacher would like to assess. One of the simplest examples would be that of attempting to assess a skill that is taught to non-native speakers in English. This assessment is going to have a signficant compenent of assessing English language comprehension. That component may actually make it impossible to assess what the assessment is suppossedly assessing.
+3. To employ (or at least be open to) a variety of means for students to demonstrate their learning.
 2. To remove the stress around maintaining grades, with the expectation that this will lead most students to be in a better place to focus on learning.
 3. To provide accurate feedback on progress towards mastery, while allowing students to move forward at their own pace, without turning challenges or slow progress into "bad" grades.
 4. To be accountable for my part in the learning process – I need to be able to guide students to the challenges and processes that will facilitate their learning. If I am unable to do this for a particular student, this does not represent failure on the part of the student.
@@ -26,6 +28,7 @@ My assessment philosophy is built around these goals:
 * Dr. Tae's TED Talk on Skateboarding and Education ()
 * Malcolm Gladwell, Peter Norvig, and many other contributors to the discussion around "10,000 hours."
 * Carol Dweck's work on Mindsets
+* Matthew Crawford's book _Shopclass as Soulcraft_.
 
 ## Assessment Philosophy
 
