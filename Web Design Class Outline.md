@@ -17,7 +17,11 @@ Major topics:
      - GitHub
    * Teams / Programming & Development Methods
      - Roles
+        + Customer
+        + Developers (programmers, designers, everybody who contributes to realizing the customer's wishes)
+        + Manager
      - Agile methods
+     - Extreme Programming (XP) (http://www.extremeprogramming.org)
 3. Design Process
    * Information Architecture (IA)
    * Wireframe
