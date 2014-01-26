@@ -2,7 +2,7 @@
 
 [Exploring Computer Science]()
 
-[Program by Design]()
+[Program by Design](http://programbydesign.org)
 
 [Bootstrap]()
 
@@ -19,6 +19,8 @@
 [Agile Software Development](http://www.agile-process.org)
 
 [Extreme Programming](http://www.extremeprogramming.org)
+
+[Scrum](https://www.scrum.org)
 
 ### Design & Prototyping
 
