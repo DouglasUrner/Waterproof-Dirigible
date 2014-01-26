@@ -10,7 +10,15 @@
 
 [AP Computer Science]()
 
+### Textbooks
+
+[Picturing Programs](http://picturingprograms.com)
+
 ### Programming Methods
+
+[Agile Software Development](http://www.agile-process.org)
+
+[Extreme Programming](http://www.extremeprogramming.org)
 
 ### Design & Prototyping
 
