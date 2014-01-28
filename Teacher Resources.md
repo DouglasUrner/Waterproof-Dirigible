@@ -22,6 +22,11 @@
 
 [Scrum](https://www.scrum.org)
 
+### Programming Tools
+
+[Git]() [Code School - Try Git](http://try.github.io/levels/1/challenges/1)
+
+
 ### Design & Prototyping
 
 ### Learning Resources
