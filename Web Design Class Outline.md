@@ -44,7 +44,6 @@ Major topics:
        * Learning to look at type.
          - Font identification by questions.
          - [So you think you can tell Arial from Helvetica?](http://www.ironicsans.com/helvarialquiz/)
-         - Helvetica vs Arial
          - Anatomy of Type
          - Kerning Game
        * Typography on the web.
