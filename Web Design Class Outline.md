@@ -25,13 +25,32 @@ Major topics:
 3. Design Process
    * Information Architecture (IA)
    * Wireframe
-     * [The Messy Art Of UX Sketching](http://uxdesign.smashingmagazine.com/2011/12/13/messy-art-ux-sketching/)
-     * [A Beginner's Guide to Wireframing](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
-     * [Planning Your Web Design With Sketches](http://tympanus.net/codrops/2013/01/29/planning-your-web-design-with-sketches/)
-     * [Sketching, Wireframing, Prototyping - How to Be Agile and Avoid Half-Baked User Experience](http://www.slideshare.net/pips1/sketching-wireframing-prototyping-how-to-be-agile-and-avoid-halfbaked-user-experience)
-     * [http://sixrevisions.com/user-interface/website-wireframing/](http://sixrevisions.com/user-interface/website-wireframing/)
-     * [UI & Wireframe Sketches to Keep You Inspired](http://webdesignledger.com/inspiration/ui-wireframe-sketches-to-keep-you-inspired)
+     * [The Messy Art Of UX Sketching]
+       (http://uxdesign.smashingmagazine.com/2011/12/13/messy-art-ux-sketching/)
+     * [A Beginner's Guide to Wireframing]
+       (http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
+     * [Planning Your Web Design With Sketches]
+       (http://tympanus.net/codrops/2013/01/29/planning-your-web-design-with-sketches/)
+     * [Sketching, Wireframing, Prototyping - How to Be Agile and Avoid Half-Baked User Experience]
+       (http://www.slideshare.net/pips1/sketching-wireframing-prototyping-how-to-be-agile-and-avoid-halfbaked-user-experience)
+     * [http://sixrevisions.com/user-interface/website-wireframing/]
+       (http://sixrevisions.com/user-interface/website-wireframing/)
+     * [UI & Wireframe Sketches to Keep You Inspired]
+       (http://webdesignledger.com/inspiration/ui-wireframe-sketches-to-keep-you-inspired)
    * Visual Design
+     * C.R.A.P.
+     * Color
+     * Typography
+       * Learning to look at type.
+         - Font identification by questions.
+         - [So you think you can tell Arial from Helvetica?](http://www.ironicsans.com/helvarialquiz/)
+         - Helvetica vs Arial
+         - Anatomy of Type
+         - Kerning Game
+       * Typography on the web.
+         * Specifying fonts.
+         * Font resources.
+     * Images
    * Information Design
    * Navigation Design
    * User Interface Design
@@ -76,3 +95,6 @@ JavaScript
 ----------
 
 JavaScript is a programming language that was developed to support interactive applications running in a web browsers.
+
+There are way to many fonts in the world! Well, maybe not, but picking a font – in a meaningful way – can be a daunting task. The trick is to develop and eye – and a feel – for type. This comes down to looking closely and noticing how you respond to different typefaces. You'll start to notice that you have opinions about the fonts that you're looking at and ideas about the message that they convey. Now you're on the road to being able to make meaningful choices about fonts. Here are some exercises to get you started. Mostly they will ask you to look closely, to notice differences between fonts. Your job is to notice how you react to the fonts, how you would describe them, and the messages they convey to you. Try these:
+
