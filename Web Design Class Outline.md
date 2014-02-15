@@ -25,6 +25,12 @@ Major topics:
 3. Design Process
    * Information Architecture (IA)
    * Wireframe
+     * [The Messy Art Of UX Sketching](http://uxdesign.smashingmagazine.com/2011/12/13/messy-art-ux-sketching/)
+     * [A Beginner's Guide to Wireframing](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
+     * [Planning Your Web Design With Sketches](http://tympanus.net/codrops/2013/01/29/planning-your-web-design-with-sketches/)
+     * [Sketching, Wireframing, Prototyping - How to Be Agile and Avoid Half-Baked User Experience](http://www.slideshare.net/pips1/sketching-wireframing-prototyping-how-to-be-agile-and-avoid-halfbaked-user-experience)
+     * [http://sixrevisions.com/user-interface/website-wireframing/](http://sixrevisions.com/user-interface/website-wireframing/)
+     * [UI & Wireframe Sketches to Keep You Inspired](http://webdesignledger.com/inspiration/ui-wireframe-sketches-to-keep-you-inspired)
    * Visual Design
    * Information Design
    * Navigation Design
