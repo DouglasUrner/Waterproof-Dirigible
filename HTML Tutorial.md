@@ -14,5 +14,5 @@ The basics of HTML are very simple, so it is probably best to jump in and get st
 
 **[The W3 Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)**
 
-**[]()**
+**[The HTML Dog Beginner Tutorial](http://www.htmldog.com/guides/html/beginner)**
 
