@@ -62,6 +62,7 @@ Major topics:
      - CoffeeScript (http://coffeescript.org)
      - Less
      - SASS/Compass
+     - Typescript
 4. HTML
 5. CSS
 6. JavaScript
@@ -70,6 +71,7 @@ Major topics:
    * Bootstrap (http://getbootstrap.com)
    * Node.js (http://nodejs.org)
    * Meteor (https://www.meteor.com)
+   * React
    * Databases
      - MongoDB
      - Maria / MySQL
